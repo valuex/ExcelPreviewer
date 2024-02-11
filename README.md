@@ -18,7 +18,9 @@ Select the cell in MS Excel and preview the corresponding file.
    - text file:
    - image file:
    - pdf file: yes, pdf is also supported, but with low speed, that Why I develop a specific appliccation for PDF files.
-
+# Important Note
+1. All these code are developed in and for 64bit application, so ensure that you get 64-bit Excel.
+   
 # Acknowledgement
 1. **SumatraPDFControl** ： https://github.com/marcoscmonteiro/SumatraPDFControl
 2. **AHK binding of Webview2.dll**: https://github.com/thqby/ahk2_lib/blob/master/WebView2/WebView2.ahk
