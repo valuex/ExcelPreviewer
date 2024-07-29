@@ -2,9 +2,12 @@
 Select the cell in MS Excel and preview the corresponding file.
 
 # How to use it for previwing pdf files
-1. Open the **ExcelPreviewer.xlsm**, go To Worksheet **PDF**, put the pdf file name list in the first column.
-2. Open the **XPDFViewer.exe**
-3. Go To Worksheet **PDF**, using key `UP` or `DOWN`  to preview the corresponding pdf file.
+1. Download **ExcelPreviewer.xlsm** and **XPDFViewer.zip**.
+2. Unzip the **XPDFViewer.zip** and place it at somewhere you like, let's call it ` path of XPDFViewer.exe`.  
+3. Open the **ExcelPreviewer.xlsm**, go To worksheet `Settings`, write  ` path of XPDFViewer.exe` into cell `B2`.
+4. Click `Start` to open the **XPDFViewer.exe**
+5. Go to the Worksheet `PDF` in **ExcelPreviewer.xlsm**, put the pdf file full name (with folder path) list in the first column.
+6. Using key `UP` or `DOWN`  to preview the corresponding pdf file. That's it.
 
 # How to use for previwing html files
 1. Open the **ExcelPreviewer.xlsm**, go To Worksheet **HTML**, put the html file name list in the first column.
