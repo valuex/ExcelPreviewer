@@ -22,7 +22,7 @@ Select the cell in MS Excel and preview the corresponding file.
    - image file:
    - pdf file: yes, pdf is also supported, but with low speed, that Why I develop a specific appliccation `XPDFViewer.exe` for previwing PDF files.
 # Important Note
-1. All these code are developed in and for 64bit application, so ensure that you get 64-bit Excel.
+1. All these code are developed in and for 64bit application, so ensure that you get 64-bit Excel. Tested for Office365 and Office 2021.
    
 # Acknowledgement
 1. **SumatraPDFControl** ： https://github.com/marcoscmonteiro/SumatraPDFControl
