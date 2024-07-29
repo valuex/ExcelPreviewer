@@ -20,7 +20,7 @@ Select the cell in MS Excel and preview the corresponding file.
    - webpage file: *.mhtml; *.htm
    - text file:
    - image file:
-   - pdf file: yes, pdf is also supported, but with low speed, that Why I develop a specific appliccation for PDF files.
+   - pdf file: yes, pdf is also supported, but with low speed, that Why I develop a specific appliccation `XPDFViewer.exe` for previwing PDF files.
 # Important Note
 1. All these code are developed in and for 64bit application, so ensure that you get 64-bit Excel.
    
